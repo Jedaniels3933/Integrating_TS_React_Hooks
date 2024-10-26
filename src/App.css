@@ -1,0 +1,54 @@
+h1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 6em;
+    box-shadow: 0cqw 0 10px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #df8a0b;
+    border-bottom: 1px solid #ccc;
+
+    
+
+}
+
+h2{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    box-shadow: 0cqw 0 10px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #df8a0b;
+    border-bottom: 1px solid #ccc;
+}
+
+h3{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    box-shadow: 0cqw 0 10px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #df8a0b;
+    border-bottom: 1px solid #ccc;
+}
+
+div{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    box-shadow: 0cqw 0 10px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #df8a0b;
+    border-bottom: 1px solid #ccc;
+}
